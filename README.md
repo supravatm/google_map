@@ -1,5 +1,7 @@
 # google_map
-This is a simple app for map customization.
-This is a simple app for map customization.
-This is a simple app for map customization.
-This is a simple app for map customization.
+
+
+
+![alt tag](https://github.com/supravatweb/google_map/blob/master/images/image1.jpe)
+
+![alt tag](https://github.com/supravatweb/google_map/blob/master/images/image2.jpeg)
